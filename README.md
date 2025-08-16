@@ -44,6 +44,8 @@ I'm a motivated software engineer exploring systems design, backend development,
 
 ## 🌱 About Me
 
+<img align="right" src="https://media.tenor.com/jQX4V-dGsf8AAAAi/anya-forger-notes.gif" alt="Anya Forger taking notes" width="200" />
+
 - Passionate about backend engineering, distributed systems, and performance analysis.  
 - Love breaking down systems to boost efficiency, reliability, and scalability.  
 - Always curious—whether reading technical blogs, exploring new tools, or prototyping ideas.  
