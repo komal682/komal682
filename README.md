@@ -19,7 +19,7 @@ I'm a motivated software engineer exploring systems design, backend development,
 |---------|-------------|------------|
 | **Producer-Consumer-Performance-Analysis** | A C-based deep dive into the classic producer-consumer problem with performance benchmarks. | Explores concurrency and throughput optimization. |
 | **Mini_Shell** | A simplified shell implemented in C++, demonstrating command parsing, execution, and basic shell utilities. | Great for understanding shells, piping, and redirections. |
-| **Wifi_simulator** | C++ project simulating WiFi scenarios—possibly modeling latency or packet behavior. | Useful for networking insights and simulation logic. |
+| **DataWeave** | A federated query execution system enabling unified querying across heterogeneous structured databases with adaptive fallback handling. | Database federation, FDW, materialized views, caching, and systems-oriented design. |
 | **DeathStarBench** | Lua-based use of microservices benchmarking suite; a load testing and performance evaluation tool. | Great exposure to scalable architectures and benchmarking. |
 
 ---
